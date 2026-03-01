@@ -1,60 +1,54 @@
 {
-    "id":  "pf2e-token-pack",
-    "title":  "pf2e Tokens Pack",
-    "description":  "\u003cp\u003eThis all-in-one pack includes token artwork and portraits for the creatures in Pathfinder Second Edition\u0027s Monster Core!\u003c/p\u003e \u003cp\u003eThe tokens are lovingly handmade to make full use of FoundryVTT\u0027s features, and are seamlessly inserted into your system compendiums.\u003c/p\u003e",
-    "manifest":  "https://raw.githubusercontent.com/Caique-AlvesC/gwk9WmJqk/refs/heads/main/module.json",
-    "url":  "https://github.com/Caique-AlvesC/gwk9WmJqk/releases/download/v13.0.2/pf2e-token-pack.zip",
-    "version":  "13.0.2",
-    "media":  [
-                  {
-                      "type":  "setup",
-                      "url":  "https://cdn.paizo.com/e7fd0eeb-9d7d-006b-7558-1a3e2f7bd8df/b49baa33-4a7f-4cd0-8970-faf3ca1f62b3/FVTT12003.jpg",
-                      "loop":  false,
-                      "flags":  {
+  "id": "pf2e-token-pack",
+  "title": "Meu Pacote de Tokens",
+  "description": "<p>Pacote de tokens e retratos para uso no Foundry VTT.</p><p>Inclui mapeamentos para inserção automática em compêndios/sistemas compatíveis.</p>",
 
-                                }
-                  },
-                  {
-                      "type":  "icon",
-                      "url":  "https://cdn.paizo.com/image/navigation/Nav-Logo-Global.png",
-                      "loop":  false,
-                      "flags":  {
+  "version": "1.0.1",
 
-                                }
-                  }
-              ],
-    "packs":  [
+  "url": "-",
 
-              ],
-    "scripts":  [
+  "manifest": "https://raw.githubusercontent.com/Caique-AlvesC/gwk9WmJqk/refs/heads/main/module.json",
+  "download": "https://github.com/Caique-AlvesC/gwk9WmJqk/releases/download/v13.0.2/pf2e-token-pack.zip",
 
-                ],
-    "esmodules":  [
-                      "./index.js"
-                  ],
-    "styles":  [
-                   "./style.css"
-               ],
-    "authors":  [
-                    {
-                        "name":  "Paizo",
-                        "url":  "https://paizo.com/",
-                        "flags":  {
+  "media": [
+    {
+      "type": "setup",
+      "url": "https://seu-cdn-ou-raw/seu-banner-ou-screenshot.jpg",
+      "loop": false,
+      "flags": {}
+    },
+    {
+      "type": "icon",
+      "url": "https://seu-cdn-ou-raw/icone.png",
+      "loop": false,
+      "flags": {}
+    }
+  ],
 
-                                  }
-                    }
-                ],
-    "compatibility":  {
-                          "minimum":  "13.344",
-                          "verified":  "13",
-                          "maximum":  "13"
-                      },
-    "relationships":  {
-                          "requires":  [
+  "packs": [],
+  "scripts": [],
+  "esmodules": ["./index.js"],
+  "styles": ["./style.css"],
 
-                                       ]
-                      },
-    "flags":  {
+  "authors": [
+    {
+      "name": "Seu Nome / Seu Grupo",
+      "url": "https://seu-link",
+      "flags": {}
+    }
+  ],
+
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13",
+    "maximum": "13"
+  },
+
+  "relationships": {
+    "requires": []
+  },
+
+ "flags":  {
                   "compendiumArtMappings":  {
                                                 "archmage":  {
                                                                  "mapping":  "modules/pf2e-token-pack/assets/archmage-map.json",
@@ -81,6 +75,5 @@
                                                    "modules/pf2e-tokens-monster-core/assets/tokens/":  "modules/pf2e-token-pack/assets/subjects/"
                                                }
               },
-    "protected":  false
+  "protected": false
 }
-
