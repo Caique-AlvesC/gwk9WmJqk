@@ -1,0 +1,64 @@
+{
+  "id": "pf2e-token-pack",
+  "title": "Meu Pacote de Tokens",
+  "description": "<p>Pacote de tokens e retratos para uso no Foundry VTT.</p><p>Inclui mapeamentos para inserção automática em compêndios/sistemas compatíveis.</p>",
+
+  "version": "1.0.0",
+
+  "url": "-",
+
+  "manifest": "https://raw.githubusercontent.com/SEU_USER/SEU_REPO/main/module.json",
+  "download": "https://github.com/SEU_USER/SEU_REPO/releases/download/v1.0.0/seu-modulo-id-1.0.0.zip",
+
+  "media": [
+    {
+      "type": "setup",
+      "url": "https://seu-cdn-ou-raw/seu-banner-ou-screenshot.jpg",
+      "loop": false,
+      "flags": {}
+    },
+    {
+      "type": "icon",
+      "url": "https://seu-cdn-ou-raw/icone.png",
+      "loop": false,
+      "flags": {}
+    }
+  ],
+
+  "packs": [],
+  "scripts": [],
+  "esmodules": ["./index.js"],
+  "styles": ["./style.css"],
+
+  "authors": [
+    {
+      "name": "Seu Nome / Seu Grupo",
+      "url": "https://seu-link",
+      "flags": {}
+    }
+  ],
+
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13",
+    "maximum": "13"
+  },
+
+  "relationships": {
+    "requires": []
+  },
+
+  "flags": {
+    "compendiumArtMappings": {
+      "pf2e": {
+        "mapping": "modules/seu-modulo-id/image-mapping.json",
+        "credit": "--"
+      }
+    },
+    "tokenRingSubjectMappings": {
+      "modules/seu-modulo-id/assets/tokens/": "modules/seu-modulo-id/assets/subjects/"
+    }
+  },
+
+  "protected": false
+}

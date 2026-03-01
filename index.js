@@ -1,0 +1,15 @@
+const e = { id: "pf2e-tokens-monster-core", title: "Pathfinder Tokens: Monster Core", description: "<p>This all-in-one pack includes token artwork and portraits for the creatures in Pathfinder Second Edition's Monster Core!</p> <p>The tokens are lovingly handmade to make full use of FoundryVTT's features, and are seamlessly inserted into your system compendiums.</p>", manifest: "https://cdn.paizo.com/foundry/modules/pf2e-tokens-monster-core/module.json", url: "https://paizo.com/products/btq056kl?Pathfinder-Tokens-Monster-Core", version: "13.0.2", media: [{ type: "setup", url: "https://cdn.paizo.com/e7fd0eeb-9d7d-006b-7558-1a3e2f7bd8df/b49baa33-4a7f-4cd0-8970-faf3ca1f62b3/FVTT12003.jpg", loop: !1, flags: {} }, { type: "icon", url: "https://cdn.paizo.com/image/navigation/Nav-Logo-Global.png", loop: !1, flags: {} }], packs: [], scripts: [], esmodules: ["./index.js"], styles: ["./style.css"], authors: [{ name: "Paizo", url: "https://paizo.com/", flags: {} }], compatibility: { minimum: "13.344", verified: "13", maximum: "13" }, relationships: { recommends: [{ id: "quick-insert", type: "module", manifest: "https://gitlab.com/fvtt-modules-lab/quick-insert/-/jobs/artifacts/master/raw/module.json?job=build-module", flags: { sigil: { devOnly: !0 } } }], systems: [{ id: "pf2e", manifest: "https://github.com/foundryvtt/pf2e/releases/latest/download/system.json", flags: { sigil: { localDevVersion: { distPath: "dist" }, devOnly: !0 } }, type: "system", compatibility: { minimum: "7.1.0", verified: "7.1.0" } }], requires: [] }, flags: { compendiumArtMappings: { archmage: { mapping: "modules/pf2e-tokens-monster-core/assets/archmage-map.json", credit: "<em>Portrait and token artwork by Paizo.</em>" }, dnd5e: { mapping: "modules/pf2e-tokens-monster-core/assets/dnd5e-map.json", credit: "<em>Portrait and token artwork by Paizo.</em>" }, shadowdark: { mapping: "modules/pf2e-tokens-monster-core/assets/shadowdark-map.json", credit: "<em>Portrait and token artwork by Paizo.</em>" }, swade: { mapping: "modules/pf2e-tokens-monster-core/assets/swpf-map.json", credit: "<em>Portrait and token artwork by Paizo.</em>" }, pf2e: { mapping: "modules/pf2e-tokens-monster-core/image-mapping.json", credit: "<em>Portrait and token artwork by Paizo.</em>" } }, sigil: { parent: "pf2e-tokens-monster-core", sheetClass: "MonsterCoreSheet" }, tokenRingSubjectMappings: { "modules/pf2e-tokens-monster-core/assets/tokens/": "modules/pf2e-tokens-monster-core/assets/subjects/" } }, protected: !0 }, t = e.id, n = e.version;
+Hooks.on("initializeDynamicTokenRingConfig", (s) => {
+  const o = new foundry.canvas.tokens.DynamicRingData({
+    label: "Monster Core Ring",
+    effects: {
+      RING_PULSE: "TOKEN.RING.EFFECTS.RING_PULSE",
+      RING_GRADIENT: "TOKEN.RING.EFFECTS.RING_GRADIENT",
+      BKG_WAVE: "TOKEN.RING.EFFECTS.BKG_WAVE",
+      INVISIBILITY: "TOKEN.RING.EFFECTS.INVISIBILITY"
+    },
+    spritesheet: "modules/pf2e-tokens-monster-core/assets/ring/sprite-sheet.json"
+  });
+  s.addConfig("monsterCoreToken", o);
+});
+console.log(`[${t}@${n}...] successfully loaded!`);

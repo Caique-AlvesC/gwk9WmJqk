@@ -1,0 +1,2506 @@
+{
+  "dnd5e.monsters": {
+    "eORmAXuV5v3nWsQL": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/animated-armor.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/animated-armor.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/animated-armor.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Wcsjbl25uiUsyQwn": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/ankhrav.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/ankhrav.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/ankhrav.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "NB6wUgVqeOQtsQKu": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/arboreal-regent.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/arboreal-regent.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/arboreal-regent.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "m4H3hjamBNMH09S9": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/angel-tabellia.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/angel-tabellia.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/angel-tabellia.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "UR2gWLFHmFwG7ReH": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/arboreal-awakened-tree.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/arboreal-awakened-tree.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/arboreal-awakened-tree.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "UTuKdTah1DKfPwWe": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/snake-python.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/snake-python.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/snake-python.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "hqj2yXtgwt64v3Lj": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/basilisk.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/basilisk.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/basilisk.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "lZR4lhNmYSf89s4Q": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/boar.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/boar.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/boar.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "SsuCaF2fIEoDdFA3": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/boar.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/boar.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/boar.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "QtJairF0h18BRhEM": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/bugbear-tormentor.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/bugbear-tormentor.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/bugbear-tormentor.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "KC4tYOolARhajP18": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/centipede-swarm.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/centipede-swarm.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/centipede-swarm.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "YOqhbf8WsX0jH9Fu": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/clay-effigy.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/clay-effigy.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/clay-effigy.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "Aw2wmqGIatxe2ImI": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/giant-cloud.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/giant-cloud.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/giant-cloud.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "EpYl7qifM5pq6W6B": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/cockatrice.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/cockatrice.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/cockatrice.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "8aCTKP5qaBPFOqxM": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/crocodile.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/crocodile.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/crocodile.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "ZM1P6LoYSwMiIJN9": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/gnome-umbral-rockwarden.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/gnome-umbral-rockwarden.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/gnome-umbral-rockwarden.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "3YwmvDupMwycWNCO": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/crocodile-deinosuchus.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/crocodile-deinosuchus.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/crocodile-deinosuchus.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "EYiQZ3rFL25fEJY5": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/wolf-dire.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/wolf-dire.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/wolf-dire.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "5P1VGAZQwOilwZQf": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/genie-jaathoom.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/genie-jaathoom.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/genie-jaathoom.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ijsfYEDqSuwQXwNN": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/dragon-turtle.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/dragon-turtle.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/dragon-turtle.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "kz2fW9xb5CcvXLX4": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/demon-pusk.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/demon-pusk.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/demon-pusk.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "KOHVWl5RU9XBR8Jb": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/nymph-dryad.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/nymph-dryad.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/nymph-dryad.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "iGBdQA3IuKsurcUy": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/hryngar-sharpshooter.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/hryngar-sharpshooter.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/hryngar-sharpshooter.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "AJiJW7K957aJJCN6": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/eagle.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/eagle.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/eagle.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "EI8w6XjzCZICkox9": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/eagle.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/eagle.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/eagle.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "fnkPNfIpS62LqOu4": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/eagle.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/eagle.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/eagle.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "LTomFUTBrkRi0Pj5": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/genie-ifrit.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/genie-ifrit.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/genie-ifrit.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "8SMQl75HLjhuSeau": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/elemental-fire-elemental-inferno.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/elemental-fire-elemental-inferno.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/elemental-fire-elemental-inferno.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "jLPhaBnMtAbB5dp1": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/elephant.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/elephant.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/elephant.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "fkCNtbvPOMd7mipF": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/dragonet-fey.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/dragonet-fey.webp",
+          "scaleX": 3,
+          "scaleY": 3
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/dragonet-fey.webp",
+            "scale": 3
+          }
+        }
+      }
+    },
+    "45Z5kogZEhawX1Ey": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/giant-fire.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/giant-fire.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/giant-fire.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Z0GiAv3bJxTjUfjM": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/beetle-flash.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/beetle-flash.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/beetle-flash.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "Hm4o2FgPZsdbXjLq": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/charnel-creation.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/charnel-creation.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/charnel-creation.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Buxe6dDK5Mw7kxe6": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/giant-frost.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/giant-frost.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/giant-frost.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "0m8QyDN52qw9zzOM": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/gargoyle.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/gargoyle.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/gargoyle.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "qoFEjfrANBdrCP6m": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/ghost-commoner.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/ghost-commoner.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/ghost-commoner.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "OBujQLLPSmlJiZnL": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/ghoul-stalker.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/ghoul-stalker.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/ghoul-stalker.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "NpvwE1feOHyEqAbP": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/snake-giant-anaconda.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/snake-giant-anaconda.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/snake-giant-anaconda.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "SoK7l5zJQKxTVgLL": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/bat-giant.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/bat-giant.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/bat-giant.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "Hn8FFLEzscgT7azz": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/centipede-giant.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/centipede-giant.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/centipede-giant.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "9bHoR8k5D2DKHaF3": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/eagle-giant.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/eagle-giant.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/eagle-giant.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "pLzSh4dA517Tn73E": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/lizard-giant-frilled.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/lizard-giant-frilled.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/lizard-giant-frilled.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "p9Xnr820UAZBOIVN": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/octopus-giant.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/octopus-giant.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/octopus-giant.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "q1YJIeIt6rK8fCKn": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/rat-giant.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/rat-giant.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/rat-giant.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "z0zvgcIugizwcuxJ": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/rat-giant.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/rat-giant.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/rat-giant.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "GxgIVRX5GbVTifiF": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/scorpion-giant-scorpion.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/scorpion-giant-scorpion.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/scorpion-giant-scorpion.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "f9JbhBfWucrY2eDA": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/spider-giant-tarantula.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/spider-giant-tarantula.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/spider-giant-tarantula.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "ZW39DE2zI3TXVYC9": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/snake-giant-viper.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/snake-giant-viper.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/snake-giant-viper.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "4tl0s2SnaLjkoDiI": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/wasp-giant.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/wasp-giant.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/wasp-giant.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "R2GPY9BhRmmwZwkh": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/kholo-hunter.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/kholo-hunter.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/kholo-hunter.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "TjWQOgI3A4UAl7lC": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/goblin-warrior.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/goblin-warrior.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/goblin-warrior.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "v99wOosUJjUgcUNF": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/spider-goliath.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/spider-goliath.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/spider-goliath.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "K5cKmPoFkpuOotis": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/ape-gorilla.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/ape-gorilla.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/ape-gorilla.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "siBUEAj4UVdaiH6p": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/shark-great-white.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/shark-great-white.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/shark-great-white.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "F0yILX4xKKt4dxKY": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/shark-great-white.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/shark-great-white.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/shark-great-white.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "h052EIIUmRwJum65": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/griffon.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/griffon.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/griffon.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "1cwfYaACm5F0l4y3": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/grindylow.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/grindylow.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/grindylow.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "omcDpBoB69esCXeM": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/bear-grizzly.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/bear-grizzly.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/bear-grizzly.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "YTpL2c3NO4sOn2UA": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/dog-guard.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/dog-guard.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/dog-guard.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "CqQ6pXQA5WXZNOm3": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/harpy.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/harpy.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/harpy.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "iSCL4Q82ivnYelzc": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/hell-hound.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/hell-hound.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/hell-hound.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "T2PExQE84ZcIbAXz": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/hippogriff.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/hippogriff.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/hippogriff.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "6qnT52lZtZblgGw8": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/hobgoblin-soldier.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/hobgoblin-soldier.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/hobgoblin-soldier.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ZQTCZfTV9ZoTjNCU": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/homunculus.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/homunculus.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/homunculus.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "aAqfEHPiVbhMwZ6j": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/hyena-hyaenodon.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/hyena-hyaenodon.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/hyena-hyaenodon.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "K4vsSlHqbBAHUDHY": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/hydra.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/hydra.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/hydra.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "cDr1JtzEV26bP5Ym": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/hyena.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/hyena.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/hyena.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "dLQiESMsfsXijD5c": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/imp.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/imp.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/imp.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "oDspGxRQFBhE74L2": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/elemental-air-phade.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/elemental-air-phade.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/elemental-air-phade.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "h98AuPfomEPcCibP": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/iron-warden.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/iron-warden.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/iron-warden.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "5ngbctIMeEnuC1p1": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/kobold-warrior.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/kobold-warrior.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/kobold-warrior.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "kVg37NlPcACAzjCT": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/kraken.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/kraken.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/kraken.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "MnoL59nOOfYatAkQ": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/lamia.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/lamia.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/lamia.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "tubcO7kaQ4w0soxS": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/devil-ort.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/devil-ort.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/devil-ort.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "AijNdqMurWxDxUSl": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/cat-leopard.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/cat-leopard.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/cat-leopard.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "XiSWKZzAUxdmFOLL": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/grim-reaper-lesser-death.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/grim-reaper-lesser-death.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/grim-reaper-lesser-death.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "bfh29vIEoGzI240e": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/lich.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/lich.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/lich.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "hjhERRzafCiFFVLA": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/cat-lion.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/cat-lion.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/cat-lion.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "namJz755U1EhvEJa": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/elemental-water-living-waterfall.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/elemental-water-living-waterfall.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/elemental-water-living-waterfall.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "57DofLgRQx16ARoc": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/lizardfolk-defender.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/lizardfolk-defender.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/lizardfolk-defender.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "MiYRAIHwm9It1in8": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/elephant-mammoth.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/elephant-mammoth.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/elephant-mammoth.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "MAoCGF5VkQwhmgvI": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/manticore-scorpion.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/manticore-scorpion.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/manticore-scorpion.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "eiifqZwYGi71r2Yl": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/medusa.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/medusa.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/medusa.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "MWlwLlKXh8jUUxOL": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/shark-megalodon.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/shark-megalodon.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/shark-megalodon.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "8MuL8xisavJW9bnw": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/ape-megaprimatus.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/ape-megaprimatus.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/ape-megaprimatus.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "KUpbXdn1XmHEeOPk": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/merfolk-warrior.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/merfolk-warrior.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/merfolk-warrior.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "pOPQU4UnR27zA0jf": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/minotaur-hunter.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/minotaur-hunter.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/minotaur-hunter.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "t8WYD7ak07X7xpx8": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/mummy-guardian.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/mummy-guardian.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/mummy-guardian.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "UFW8M3JHzHkxUEGM": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/mummy-pharaoh.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/mummy-pharaoh.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/mummy-pharaoh.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "5SgVGhQBswgWRwsF": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/nightmare.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/nightmare.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/nightmare.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "eIGowKTkEBC9gUzx": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/ogre-warrior.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/ogre-warrior.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/ogre-warrior.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "HB49mCOVBXwWeKWQ": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/orc-veteran.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/orc-veteran.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/orc-veteran.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "ciLSItjCpwT7nMmk": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/dolphin-orca.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/dolphin-orca.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/dolphin-orca.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "EIgAW1dWVPpyWLUh": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/pegasus.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/pegasus.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/pegasus.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "RCv5y7iWlfNxkinx": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/devil-nessari.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/devil-nessari.webp",
+          "scaleX": 3,
+          "scaleY": 3
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/devil-nessari.webp",
+            "scale": 3
+          }
+        }
+      }
+    },
+    "ZaP1H91t4FzbRqR5": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/coatl-quetz.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/coatl-quetz.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/coatl-quetz.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "8ihbbjkaOFTPbI73": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/rat-swarm.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/rat-swarm.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/rat-swarm.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "SBCe2BSa6opTS5M4": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/rhinoceros.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/rhinoceros.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/rhinoceros.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "Bupo3E9X5Ptx6XeT": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/horse-riding.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/horse-riding.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/horse-riding.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "rz8UTUnFT87BsAFR": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/horse-riding.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/horse-riding.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/horse-riding.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "PHO4J98zK2p4KNyc": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/horse-riding-pony.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/horse-riding-pony.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/horse-riding-pony.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "p980augbCIdpK9ZX": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/roc.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/roc.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/roc.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "8xhuJXYMnlQD7LF6": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/satyr.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/satyr.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/satyr.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "QGcQYZbVl4bWzi4E": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/shadow-spawn.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/shadow-spawn.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/shadow-spawn.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "xple5bvGj42uGgdd": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/skeleton-skeletal-giant.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/skeleton-skelatal-giant.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/skeleton-skelatal-giant.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "7KJ5vjnp0FJrdu6T": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/skeleton-skeletal-horse.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/skeleton-skeletal-horse.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/skeleton-skeletal-horse.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "nU8GN8La8DCt8SDb": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/skeleton-skeletal-guard.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/skeleton-skeletal-guard.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/skeleton-skeletal-guard.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "tYYoifu9teGLetVI": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/cat-smilodon.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/cat-smilodon.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/cat-smilodon.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "6wbasdWWqtXeIAyD": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/sphinx.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/sphinx.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/sphinx.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "4udpeEneFSZK9NTB": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/spider-swarm.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/spider-swarm.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/spider-swarm.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "MUpBNDoJEr09bLaO": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/sprite.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/sprite.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/sprite.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "SOin81NWijHRvXFK": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/giant-stone.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/giant-stone.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/giant-stone.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "z3gSIXHHWYaHjfBT": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/stone-bulwark.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/stone-bulwark.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/stone-bulwark.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "sApYLZj9PTZ40wJr": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/elemental-earth-stone-mauler.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/elemental-earth-stone-mauler.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/elemental-earth-stone-mauler.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "VmdyZDjqAc8vdncY": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/demon-succubus.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/demon-succubus.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/demon-succubus.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "B7lBOr1AahNZs4a6": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/planar-scion-pitborn-adept.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/planar-scion-pitborn-adept.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/planar-scion-pitborn-adept.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "FayqbnjBMszO6Pat": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/cat-tiger.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/cat-tiger.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/cat-tiger.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "e5IQxSJO7ySEDdSH": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/dinosaur-triceratops.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/dinosaur-triceratops.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/dinosaur-triceratops.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "ZHAFrnCwCz17dmLc": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/troll-forest-troll.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/troll-forest-troll.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/troll-forest-troll.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "HlddcPm4cWptj3ka": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/dinosaur-tyrannosaurus.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/dinosaur-tyrannosaurus.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/dinosaur-tyrannosaurus.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "G9PENY6nw0xRxCJW": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/unicorn.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/unicorn.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/unicorn.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "PcZ0QjIG6bHpffp9": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/bat-vampire-bat-swarm.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/bat-vampire-bat-swarm.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/bat-vampire-bat-swarm.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "DDO9lDCDtNHkfShP": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/vampire-count.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/vampire-count.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/vampire-count.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "zpaZb7I8alY32vWV": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/vampire-servitor.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/vampire-servitor.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/vampire-servitor.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "D5rwVIxmfFrdyyxT": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/snake-viper.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/snake-viper.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/snake-viper.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "T1xZTDCGuvMBSq8d": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/horse-war.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/horse-war.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/horse-war.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "VBkp2rGQKvMcCOus": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/warg.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/warg.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/warg.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "YUaprnengdFDNG8P": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/wasp-swarm.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/wasp-swarm.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/wasp-swarm.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "oRBnO5OHoOZzlCOr": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/werecreature-werebear.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/werecreature-werebear.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/werecreature-werebear.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "CrnUJhTbkdZjCZsH": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/werecreature-wererat.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/werecreature-wererat.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/werecreature-wererat.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "zIr3NaNF0mWz5Ahq": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/werecreature-weretiger.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/werecreature-weretiger.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/werecreature-weretiger.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "7tRhrxuknTpHpYcA": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/werecreature-werewolf.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/werecreature-werewolf.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/werecreature-werewolf.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "8KSVpQZyzius93ko": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/will-o-wisp.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/wil-o-wisp.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/wil-o-wisp.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "yGTh874etxUckmAf": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/warg-witchwarg.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/warg-witchwarg.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/warg-witchwarg.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "yawTeS8u2FCfzzZH": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/wolf.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/wolf.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/wolf.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "ET4PEVEiNJLU4f7c": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/wraith.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/wraith.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/wraith.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "7198siHjPJf8g0cG": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/drake-wyvern.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/drake-wyvern.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/drake-wyvern.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "RenLfmDT2XlbCF4x": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/zombie-hulk.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/zombie-hulk.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/zombie-hulk.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "NAISFPoNNgUCsEyW": {
+      "actor": "modules/pf2e-tokens-monster-core/assets/portraits/zombie-shambler.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-monster-core/assets/tokens/zombie-shambler.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-monster-core/assets/subjects/zombie-shambler.webp",
+            "scale": 1
+          }
+        }
+      }
+    }
+  }
+}
