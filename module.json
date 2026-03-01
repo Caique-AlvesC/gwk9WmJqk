@@ -51,12 +51,12 @@
   "flags": {
     "compendiumArtMappings": {
       "pf2e": {
-        "mapping": "modules/seu-modulo-id/image-mapping.json",
+        "mapping": "modules/pf2e-token-pack/image-mapping.json",
         "credit": "--"
       }
     },
     "tokenRingSubjectMappings": {
-      "modules/seu-modulo-id/assets/tokens/": "modules/seu-modulo-id/assets/subjects/"
+      "modules/seu-modulo-id/assets/tokens/": "modules/pf2e-token-pack/assets/subjects/"
     }
   },
 
